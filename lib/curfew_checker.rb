@@ -34,7 +34,7 @@ def deluxe_curfew_checker(time)
   elsif 11 == 11
     puts "Eleven equals eleven."
   else
-    puts "I have" + " 11 - #{time.to_s} + "to elven."
+    puts "I have" + " "11" - #{time.to_s} + "to elven."
   end
 end
 
